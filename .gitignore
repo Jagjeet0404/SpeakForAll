@@ -1,1 +1,11 @@
+<<<<<<< HEAD
+"SpeakForAll (1)/" 
+=======
+node_modules/
+frontend/node_modules/
+storybook-static/
+frontend/node_modules/.cache/
+*.log
+>>>>>>> fbe2af830a4712ade15a88a4a05fc38c4afa54a6
+"SpeakForAll (1)/" 
 "SpeakForAll (1)/" 
